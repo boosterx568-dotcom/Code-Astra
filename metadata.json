@@ -1,0 +1,5 @@
+{
+  "name": "Codastra - Source Code Marketplace",
+  "description": "A secure, modern, responsive web app where users can buy and sell source codes. Features admin moderation, MediaFire file hosting, and a simulated Firebase Firestore backend.",
+  "requestFramePermissions": []
+}
